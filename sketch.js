@@ -1,7 +1,7 @@
 var hasDocked=false
 
 function preload(){
-bg=loadImage("images/spacebg.jpg")
+bg=loadImage("spacebg.jpg")
 issImg=loadImage("iss.png")
 spacecraft1img=loadImage("spacecraft1.png")
 spacecraft2img=loadImage("spacecraft2.png")
